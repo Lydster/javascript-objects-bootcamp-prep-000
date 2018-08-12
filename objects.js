@@ -5,5 +5,5 @@ function updatePlaylist(playlist, artistName, songTitle) {
 }
 
 function removeFromPlayist(playlist, artistName) {
-  delete playlist[Phil Ochs];
+  delete playlist.Phil Ochs;
 }
