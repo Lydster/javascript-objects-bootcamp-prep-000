@@ -1,1 +1,1 @@
-var playlist = {'My bloody Valentine': "slowdive"};
+var playlist = {};
